@@ -29,7 +29,7 @@ namespace Giris_Sistemi
         {
             string a = Interaction.InputBox("Giriş İçin Kullanıcı Adı Giriniz!", "Yönetici Girişi");
             string b = Interaction.InputBox("Giriş İçin Şifre Giriniz!", "Yönetici Girişi");
-            if (a == "Orhan.123"&&b=="12345")
+            if (a == "helloworld"&&b=="010101")
             {
                 Form3 f3 = new Form3();
                 this.Hide();
